@@ -22,25 +22,25 @@ Here are some ideas to get you started:
 <h2 align="left" bold> About Me </h2>
   
 <section>
-<p>🎓 Ich heiße Efendi und bin Junior Front-End-Webentwickler. Ich bin wirklich begeistert davon, neue Dinge zu lernen. </p>
-<p>👨‍💻Im Jahr 2023 habe ich als Trainee als Web-Developer bei "Neue Fische" begonnen. Gelernt habe ich React, Javascript, Next.js, CSS, HTML5 etc. </p>
-<p>⭐Auch außerhalb der Tech-Welt genieße ich es, mich selbst anzutreiben, um neue Fähigkeiten zu entwickeln. Meine Hobbys sind vor allem Games, Streamen & Animes. </p>
+<p>🎓 I am Efendi a Junior Front End Developer. I am really enthusiastic about learning new things. </p>
+<p>👨‍💻In 2023, I started as Trainee as Web-Developer at "Neue Fische". I learned React, Javascript, Next.js, CSS, HTML5 etc. </p>
+<p>⭐Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are playing Games, Streaming & Animes. </p>
 
-  <p>✈️ Unter anderem liebe ich es auch zu reisen. </p>
+  <p>✈️ I love traveling too I have been on trips to Dubai, Mauritius and much more. </p>
 </section>
 
 
-<h2 align="left" bold>🛠️ Fähigkeiten </h2>
+<h2 align="left" bold>🛠️ Skills </h2>
 
 
-<h3 align="left" bold> Sprachen </h3>
+<h4 align="left" bold> Languages </h4>
 
 <section>
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   
  ---
 
-  <h3 align="left" bold>Front-End-Entwicklung </h4>
+  <h4 align="left" bold>Front End Developer </h4>
 
 <img src="https://img.icons8.com/plasticine/50/null/react.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/38/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-  <h4 align="left" bold>🖥️ Arbeitsbereich </h4>
+  <h4 align="left" bold>🖥️ Workspace </h4>
 <section>
 <img src="https://img.icons8.com/material-outlined/35/null/mac-os--v2.png"/>
 <img src="https://img.icons8.com/color/40/null/visual-studio-code-2019.png"/>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-  <h4 align="left" bold>🔗 Verknüpfungen </h4>
+  <h4 align="left" bold>🔗 Links </h4>
 
 [![Mein Github Profil](https://img.icons8.com/glyph-neue/50/null/github.png)](https://github.com/Efendi5)
 [![Mein Linkedin Profil](https://img.icons8.com/doodle/45/null/linkedin-circled.png)](https://www.linkedin.com/in/efendi-varol-b9a632266/)
