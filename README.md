@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <h2 align="left" bold> About Me </h2>
   
 <section>
-<p>🎓 I am Efendi a Junior Front End Developer. I am really enthusiastic about learning new things. </p>
-<p>👨‍💻In 2023, I started as Trainee as Web-Developer at "Neue Fische". I learned React, Javascript, Next.js, CSS, HTML5 etc. </p>
-<p>⭐Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are playing Games, Streaming & Animes. </p>
+<p>🎓 Hey Guys I am Efendi a Junior Web Developer.</p>
+<p> I am a passionate programmer who began my journey in a bootcamp and have already learned a lot. But that's just the beginning! The world of IT offers endless opportunities for growth and improvement. With enthusiasm, perseverance, and the goal to shine in the programming world, I set high ambitions for myself and remain constantly curious. I believe that the future belongs to those who never give up and are always ready to keep learning. In my personal life, I am deeply committed to continuously expanding my programming skills and evolving. Let's embark on this exciting journey together! </p>
+<p>⭐Outside the world of tech too, I enjoy pushing myself to the Gym and my hobbies are playing Games reading Books & watching Animes. </p>
 
-  <p>✈️ I love traveling too I have been on trips to Dubai, Mauritius and much more. </p>
+<p>✈️ I love traveling too I have been on trips to Dubai, Mauritius and much more. </p>
 </section>
 
 
